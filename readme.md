@@ -8,11 +8,11 @@ The objective of our  mini-project is to design a modi-fied ResNet architecture 
 * Amey Kolhe (apk9563)
 
 ## System Specs
-MacOS Big Sur 11.0.1
-Processor: 2.3 GHz Dual-Core Intel Core i5
-Memory: 8GB
-Python: 3.8.0
-Torch 2.0.0
+* MacOS Big Sur 11.0.1
+* Processor: 2.3 GHz Dual-Core Intel Core i5
+* Memory: 8GB
+* Python: 3.8.0
+* Torch 2.0.0
 
 
 
